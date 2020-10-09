@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/C++/Crockits Carpeta de Juego/Dino.h
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+
+C:/Users/user/Desktop/C++/Crockits Carpeta de Juego/Escenario.h
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+
+C:/Users/user/Desktop/C++/Crockits Carpeta de Juego/main.cpp
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+iostream
+-
+fstream
+-
+Dino.h
+C:/Users/user/Desktop/C++/Crockits Carpeta de Juego/Dino.h
+Escenario.h
+C:/Users/user/Desktop/C++/Crockits Carpeta de Juego/Escenario.h
+

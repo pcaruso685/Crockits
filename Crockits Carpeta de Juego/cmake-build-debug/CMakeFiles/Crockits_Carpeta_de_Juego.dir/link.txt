@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Crockits_Carpeta_de_Juego.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Crockits_Carpeta_de_Juego.dir/objects.a @CMakeFiles\Crockits_Carpeta_de_Juego.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Crockits_Carpeta_de_Juego.dir/objects.a -Wl,--no-whole-archive  -o Crockits_Carpeta_de_Juego.exe -Wl,--out-implib,libCrockits_Carpeta_de_Juego.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Crockits_Carpeta_de_Juego.dir\linklibs.rsp
