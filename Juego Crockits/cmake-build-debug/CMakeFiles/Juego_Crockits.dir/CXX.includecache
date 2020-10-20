@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/C++/Juego Crockits/Crockit.h
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+
+C:/Users/user/Desktop/C++/Juego Crockits/Dino.h
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+
+C:/Users/user/Desktop/C++/Juego Crockits/Escenario.h
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+
+C:/Users/user/Desktop/C++/Juego Crockits/LinkedList.h
+Node.h
+C:/Users/user/Desktop/C++/Juego Crockits/Node.h
+
+C:/Users/user/Desktop/C++/Juego Crockits/Municion.cpp
+Municion.h
+C:/Users/user/Desktop/C++/Juego Crockits/Municion.h
+
+C:/Users/user/Desktop/C++/Juego Crockits/Municion.h
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+
+C:/Users/user/Desktop/C++/Juego Crockits/Node.h
+
+C:/Users/user/Desktop/C++/Juego Crockits/main.cpp
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+iostream
+-
+fstream
+-
+Dino.h
+C:/Users/user/Desktop/C++/Juego Crockits/Dino.h
+Crockit.h
+C:/Users/user/Desktop/C++/Juego Crockits/Crockit.h
+Escenario.h
+C:/Users/user/Desktop/C++/Juego Crockits/Escenario.h
+LinkedList.h
+C:/Users/user/Desktop/C++/Juego Crockits/LinkedList.h
+

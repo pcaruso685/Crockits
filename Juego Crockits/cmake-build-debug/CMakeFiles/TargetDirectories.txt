@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/C++/Juego Crockits/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/C++/Juego Crockits/cmake-build-debug/CMakeFiles/Juego_Crockits.dir
+C:/Users/user/Desktop/C++/Juego Crockits/cmake-build-debug/CMakeFiles/rebuild_cache.dir

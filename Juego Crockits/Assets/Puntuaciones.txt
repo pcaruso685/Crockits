@@ -1,0 +1,3 @@
+Genial!, has logrado hacer entre 50 y 100 movimientos!
+Excelente!, has jugado mas de 100 movimientos!
+Cantidad de Movimientos: 162
